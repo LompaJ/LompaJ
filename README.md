@@ -1,16 +1,16 @@
-## Hi there 👋
+> "If they come for me in the morning, they will come for you at night."
+> 
+> \- Angela Davis 
 
-<!--
-**LompaJ/LompaJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I develop software mostly for fun.
+- I like messing around with C and Rust. I also know Python, <br/>
+  JS/TS and Java, but don't find them to be very enjoyable.
+- I'm into game dev.
+- I cannot do UI or Web to save my life.
+- I like reinventing the wheel.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Setup
+- OS: Gentoo Linux
+- WM: i3
+- Editor: neovim
