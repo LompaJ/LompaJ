@@ -9,6 +9,7 @@
 - I'm into game dev.
 - I cannot do UI or Web to save my life.
 - I like reinventing the wheel.
+- I prefer GitLab.
 
 ## My Setup
 - OS: Gentoo Linux
