@@ -4,12 +4,12 @@
 
 ## About Me
 - I develop software mostly for fun.
-- I like messing around with C and Rust. I also know Python, <br/>
-  JS/TS and Java, but don't find them to be very enjoyable.
+- I like messing around with C. I also know Python, JS/TS<br/>
+  and Java, but don't find them to be very enjoyable.
 - I'm into game dev.
 - I cannot do UI or Web to save my life.
 - I like reinventing the wheel.
-- I prefer GitLab.
+- I prefer Codeberg.
 
 ## My Setup
 - OS: Gentoo Linux
